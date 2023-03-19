@@ -1,6 +1,7 @@
 package com.mvcPractice.practicespring.repository;
 
 import com.mvcPractice.practicespring.domain.Member;
+import org.springframework.stereotype.Repository;
 
 import java.util.ArrayList;
 import java.util.HashMap;
